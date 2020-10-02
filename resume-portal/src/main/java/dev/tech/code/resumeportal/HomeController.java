@@ -11,4 +11,15 @@ public class HomeController {
         return "hello";
     }
 
+    @GetMapping("/edit")
+    public String edit()
+    {
+        return "webpage";
+    }
+
+    @GetMapping("/view")
+    public String getView()
+    {
+        return "Its a view";
+    }
 }
