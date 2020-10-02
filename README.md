@@ -1,2 +1,2 @@
 # resumeportal
-Resume Portal to hold resumes
+Resume portal to hold resumes
